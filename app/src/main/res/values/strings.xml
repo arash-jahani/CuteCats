@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CuteCats</string>
+    <string name="title_activity_main">Cats List</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="cats_list">Cats List</string>
+    <string name="categories">Categories</string>
+</resources>
